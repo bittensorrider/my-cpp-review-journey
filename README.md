@@ -20,6 +20,8 @@ clang++ --version
 cd ./01-cpp-getstarted
 
 clang++ -std=c++20 main.cpp -o main && ./main
+
+clang++ -std=c++20 main_2.cpp -o main_2 && ./main_2
 ```
 
 ---
