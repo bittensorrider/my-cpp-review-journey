@@ -1,2 +1,29 @@
 # my-cpp-review-journey
+
 Learn C++ again along with W3Schools
+
+## Prerequisites
+
+```yaml
+platform: macOS (macbook intel)
+```
+
+```bash
+xcode-select --install
+
+clang++ --version
+```
+
+## Phase 01 - Get Started With C++
+
+```bash
+cd ./01-cpp-getstarted
+
+clang++ -std=c++20 main.cpp -o main && ./main
+```
+
+---
+
+&copy; 2026 @bittensorrider
+
+All rights reserved.
