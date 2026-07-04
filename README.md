@@ -24,6 +24,14 @@ clang++ -std=c++20 main.cpp -o main && ./main
 clang++ -std=c++20 main_2.cpp -o main_2 && ./main_2
 ```
 
+## Phase 02 - C++ Output
+
+```bash
+cd ./02-cpp-output
+
+clang++ -std=c++20 main.cpp -o main && ./main
+```
+
 ---
 
 &copy; 2026 @bittensorrider
